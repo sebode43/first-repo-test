@@ -1,4 +1,9 @@
 Production v1.0
 Production v1.1
 Production 1.2
+<<<<<<< HEAD
 Bugfix 1.2
+=======
+production 3.0
+>>>>>>> enhance
+Fixed merge
